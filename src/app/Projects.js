@@ -1,7 +1,7 @@
 import Card from "../components/cards";
-import nd from "./assets/nayzasdungeons.png";
-import comingsoon from "./assets/comingsoon.jpg";
-import website from"./assets/website.png";
+import nd from "./ressources/nayzasdungeons.png";
+import comingsoon from "./ressources/comingsoon.jpg";
+import website from"./ressources/website.png";
 
 const Project = () => {
 
