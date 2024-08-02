@@ -17,7 +17,7 @@ const Contact = () => {
                 </div>
                 <div className="mb-14">
                     <p className="text-text_color-200 text-2xl ml-24"> 
-                         -> E-mail: ilian.guille7@gmail.com <br/>
+                         -> E-mail: ilian.guille7@gmail.com or ilian.guille7@nayzascopywriting.com <br/>
                          -> Discord: nayza.
                     </p>
                 </div>
