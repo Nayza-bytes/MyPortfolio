@@ -13,6 +13,8 @@ const Project = () => {
     `This is the website you are 
     currently visiting, This is part 
     of my projects list !`;
+    const pComingSoonDesc = 
+    `This is where i’m going to feature future projects `;
 
     const greenStatus = "w-72 h-16 bg-green-700 rounded-md flex items-center";
     const redStatus = "w-72 h-16 bg-red_secondary-200 rounded-md flex items-center";
@@ -35,7 +37,7 @@ const Project = () => {
                 <div className="flex justify-evenly w-auto mr-40">
                     <a href="https://github.com/Nayza-bytes/Forge118-NayzasDungeons" target="_blank"><Card title={"Nayza's Dungeons"} desc={pNayzasDungeonsdescription} img={nd} status={"In development"} style={greenStatus}/></a>
                     <a href="https://github.com/Nayza-bytes/portfolio" target="_blank"><Card title={"My Portfolio"} desc={pWebsitedescription} img={website} status={"In development"} style={greenStatus}/></a>
-                    <Card title={"Coming Soon"} desc={pNayzasDungeonsdescription} img={comingsoon} status={"Not Started"} style={redStatus}/>
+                    <Card title={"Coming Soon"} desc={pComingSoonDesc} img={comingsoon} status={"Not Started"} style={redStatus}/>
                 </div>
             </div>
         </div>
