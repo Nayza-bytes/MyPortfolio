@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.6d4424ed.css",
-    "main.js": "./static/js/main.e3dfcb9e.js",
+    "main.css": "./static/css/main.d99e0cb6.css",
+    "main.js": "./static/js/main.45e04a5d.js",
     "static/js/453.1407b060.chunk.js": "./static/js/453.1407b060.chunk.js",
     "static/media/comingsoon.jpg": "./static/media/comingsoon.73dec87e65fd7bf6e944.jpg",
-    "static/media/nayzasdungeons.png": "./static/media/nayzasdungeons.e377d7d36e379b157257.png",
+    "static/media/nayzasdungeons.png": "./static/media/nayzasdungeons.c6450915a1a2d64fba9f.png",
     "static/media/website.png": "./static/media/website.1187dd9925c6e1a640f6.png",
+    "static/media/react.svg": "./static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/java.svg": "./static/media/java.4d03e0665c9e9b734d2a4f6808836b33.svg",
+    "static/media/python.svg": "./static/media/python.e6d7dc739a91892bbf1f6262412046dd.svg",
+    "static/media/figma.svg": "./static/media/figma.f8a59847e765256ccc3cf1d29481131c.svg",
+    "static/media/tailwind.svg": "./static/media/tailwind.315d0ac2a2708d5f06972906113dfbf1.svg",
     "index.html": "./index.html",
-    "main.6d4424ed.css.map": "./static/css/main.6d4424ed.css.map",
-    "main.e3dfcb9e.js.map": "./static/js/main.e3dfcb9e.js.map",
+    "static/media/vscode.svg": "./static/media/vscode.b8b1e001813039750e6c05c236ab0d46.svg",
+    "main.d99e0cb6.css.map": "./static/css/main.d99e0cb6.css.map",
+    "main.45e04a5d.js.map": "./static/js/main.45e04a5d.js.map",
     "453.1407b060.chunk.js.map": "./static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d4424ed.css",
-    "static/js/main.e3dfcb9e.js"
+    "static/css/main.d99e0cb6.css",
+    "static/js/main.45e04a5d.js"
   ]
 }
