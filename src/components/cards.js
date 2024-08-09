@@ -1,6 +1,6 @@
 function Card(props) {
     return (
-        <div className="flex items-stretch border-bg_gray-300 bg-bg_gray-200 border-2 rounded-md w- h-192 mb-24">
+        <div className="flex items-stretch border-bg_gray-300 bg-bg_gray-200 border-2 rounded-md h-192 mb-24 drop-shadow-c3xl">
         <div className="ml-8">
             <div className=" mt-9">
                 <h1 className="text-2xl font-black mb-9">{props.title}</h1>

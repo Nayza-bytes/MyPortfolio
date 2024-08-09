@@ -3,24 +3,18 @@ const Home = () => {
     return (
         <div className="flex items-center bg-bg_gray-100 text-text_color-100 w-screen h-auto pl-40 overflow-hidden" id="home">
             <div className="mt-48 mb-48">
-                <h1 className="text-5xl font-black w-screen ">Hi, I'm Ilian</h1>
-                <h1 className="text-5xl font-black w-screen ml-28 mb-14">A Young Developer and Copywriter</h1>
-                <div className="w-160">
-                    <p className="text-text_color-200 mt-10 mb-8 text-2xl">
-                        I'm learning how to be a Full-stack developer.<br/>
-                        I Also learned about copywriting and UI/UX for websites.<br/>
-                        
-                    </p>
-                    <p className="text-text_color-200 mb-4 text-2xl">
-                        Here is others domains I have some knowledge in...<br/>
-                    </p>
-                    <p className="text-text_color-200 ml-12 text-2xl">
-                            📜 -> Copywriting <br/>
-                            🕸️ -> Full-Stack <br/>
-                            📡 -> Cybersecurity <br/>
-                            ⚙️ -> Java and Minecraft Modding <br/>
-                            🖥️ -> UI/UX <br/>
-                    </p>     
+                <div className="flex items-center">
+                    <div className="w-64 h-11 bg-orange_primary"></div>
+                    <h1 className="text-8xl font-black mb-6 ml-6">Hey, I'm Ilian</h1>
+                </div>
+                <h1 className="text-8xl font-black">A Young Developer and </h1>
+                <div className="flex items-center mt-6">
+                    <h1 className="text-8xl font-black">Copywriter.</h1>
+                    <div className="w-256 h-11 bg-orange_primary"></div>
+                </div>
+                <div className="flex justify-center items-center mt-24">
+                    <a className="text-2xl underline transition ease-in-out duration-500 hover:text-orange_primary hover:underline mr-32">Get in touch</a>
+                    <a className="text-xl text-text_color-200 underline transition ease-in-out duration-500 hover:text-orange_primary hover:underline ">See my projects</a>
                 </div>
             </div>
         </div>

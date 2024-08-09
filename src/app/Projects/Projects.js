@@ -1,7 +1,7 @@
-import Card from "../components/cards";
-import nd from "./ressources/nayzasdungeons.png";
-import comingsoon from "./ressources/comingsoon.jpg";
-import website from"./ressources/website.png";
+import Card from "../../components/cards";
+import nd from "./resources/nayzasdungeons.png";
+import comingsoon from "./resources/comingsoon.jpg";
+import website from"./resources/website.png";
 
 const Project = () => {
 
@@ -35,8 +35,8 @@ const Project = () => {
                 </p>
 
                 <div className="flex justify-evenly w-auto mr-40">
-                    <a href="https://github.com/Nayza-bytes/Forge118-NayzasDungeons" target="_blank"><Card title={"Nayza's Dungeons"} desc={pNayzasDungeonsdescription} img={nd} status={"In development"} style={greenStatus}/></a>
-                    <a href="https://github.com/Nayza-bytes/portfolio" target="_blank"><Card title={"My Portfolio"} desc={pWebsitedescription} img={website} status={"In development"} style={greenStatus}/></a>
+                    <a href="https://github.com/Nayza-bytes/Forge118-NayzasDungeons" target="_blank" rel="noreferrer"><Card title={"Nayza's Dungeons"} desc={pNayzasDungeonsdescription} img={nd} status={"In development"} style={greenStatus}/></a>
+                    <a href="https://github.com/Nayza-bytes/MyPortfolio/tree/master" target="_blank" rel="noreferrer"><Card title={"My Portfolio"} desc={pWebsitedescription} img={website} status={"In development"} style={greenStatus}/></a>
                     <Card title={"Coming Soon"} desc={pComingSoonDesc} img={comingsoon} status={"Not Started"} style={redStatus}/>
                 </div>
             </div>

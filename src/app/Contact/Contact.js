@@ -17,8 +17,9 @@ const Contact = () => {
                 </div>
                 <div className="mb-14">
                     <p className="text-text_color-200 text-2xl ml-24"> 
-                         -> E-mail: ilian.guille7@gmail.com or ilian.guille7@nayzascopywriting.com <br/>
-                         -> Discord: nayza.
+                         -> E-mail: ilian.guille7@gmail.com<br/>
+                         -> Discord: nayza. <br/>
+                         -> You also can find me on Ko-Fi <a className="pr-8 no-underline transition ease-in-out duration-500 hover:text-orange_primary hover:underline" target="_blank" rel="noreferrer" href="https://ko-fi.com/iliancopywriting">https://ko-fi.com/iliancopywriting</a>
                     </p>
                 </div>
             </div>

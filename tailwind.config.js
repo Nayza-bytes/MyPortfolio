@@ -5,6 +5,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      dropShadow: {
+        'c3xl': '0 40px 40px rgba(51, 61, 75, 0.70)',
+      },
       colors: {
         'bg_gray': {
           100: '#2c2e31',
@@ -63,7 +66,11 @@ module.exports = {
         144: '36rem',
         160: '40rem',
         176: '44rem',
-        192: '48rem'
+        192: '48rem',
+        208: '52rem',
+        224: '56rem',
+        240: '60rem',
+        256: '64rem'
       },
     },
   },
