@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.d99e0cb6.css",
-    "main.js": "./static/js/main.45e04a5d.js",
+    "main.js": "./static/js/main.4219dfd6.js",
     "static/js/453.1407b060.chunk.js": "./static/js/453.1407b060.chunk.js",
     "static/media/comingsoon.jpg": "./static/media/comingsoon.73dec87e65fd7bf6e944.jpg",
     "static/media/nayzasdungeons.png": "./static/media/nayzasdungeons.c6450915a1a2d64fba9f.png",
@@ -14,11 +14,11 @@
     "index.html": "./index.html",
     "static/media/vscode.svg": "./static/media/vscode.b8b1e001813039750e6c05c236ab0d46.svg",
     "main.d99e0cb6.css.map": "./static/css/main.d99e0cb6.css.map",
-    "main.45e04a5d.js.map": "./static/js/main.45e04a5d.js.map",
+    "main.4219dfd6.js.map": "./static/js/main.4219dfd6.js.map",
     "453.1407b060.chunk.js.map": "./static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d99e0cb6.css",
-    "static/js/main.45e04a5d.js"
+    "static/js/main.4219dfd6.js"
   ]
 }
