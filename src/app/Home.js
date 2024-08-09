@@ -13,8 +13,8 @@ const Home = () => {
                     <div className="w-256 h-11 bg-orange_primary"></div>
                 </div>
                 <div className="flex justify-center items-center mt-24">
-                    <a className="text-2xl underline transition ease-in-out duration-500 hover:text-orange_primary hover:underline mr-32">Get in touch</a>
-                    <a className="text-xl text-text_color-200 underline transition ease-in-out duration-500 hover:text-orange_primary hover:underline ">See my projects</a>
+                    <a href="#contact" className="text-2xl underline transition ease-in-out duration-500 hover:text-orange_primary hover:underline mr-32">Get in touch</a>
+                    <a href="#projects" className="text-xl text-text_color-200 underline transition ease-in-out duration-500 hover:text-orange_primary hover:underline ">See my projects</a>
                 </div>
             </div>
         </div>
