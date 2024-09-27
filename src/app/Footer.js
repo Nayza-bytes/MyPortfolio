@@ -13,6 +13,7 @@ const Footer = () => {
                         This website has been made with React and Tailwind CSS, 
                         Two frameworks I always wanted to learn ! <br/>
                         UI inspired and colors copied on <a className="text-orange_primary underline" href="https://monkeytype.com/" target="_blank" rel="noreferrer">Monkeytype</a>
+                        V: 0.0.3
                     </p>
                 </div>
             </div>

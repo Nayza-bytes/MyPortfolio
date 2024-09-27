@@ -1,11 +1,11 @@
 const Home = () => {
     
     return (
-        <div className="flex items-center bg-bg_gray-100 text-text_color-100 w-screen h-auto pl-40 overflow-hidden" id="home">
+        <div className="flex items-center bg-bg_gray-100 text-text_color-100 w-screen h-auto 2xl:pl-40 pl-9 overflow-hidden" id="home">
             <div className="mt-48 mb-48">
                 <div className="flex items-center">
                     <div className="w-64 h-11 bg-orange_primary"></div>
-                    <h1 className="text-8xl font-black mb-6 ml-6">Hey, I'm Ilian</h1>
+                    <h1 className="text-8xl xl:text-6xl font-black mb-6 ml-6">Hey, I'm Ilian</h1>
                 </div>
                 <h1 className="text-8xl font-black">A Young Developer and </h1>
                 <div className="flex items-center mt-6">
