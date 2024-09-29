@@ -1,7 +1,7 @@
 const Home = () => {
     
     return (
-        <div className="flex items-center bg-bg_gray-100 text-text_color-100 w-screen h-auto lg:pl-40 pl-9 overflow-hidden" id="home">
+        <div className="flex items-center bg-bg_gray-100 text-text_color-100 w-screen h-auto md:pl-40 sm:pl-10 pl-4 overflow-hidden" id="home">
             <div className="mt-48 mb-48">
                 <div className="flex items-center">
                     <div className="lg:block hidden w-64 h-11 bg-orange_primary"></div>

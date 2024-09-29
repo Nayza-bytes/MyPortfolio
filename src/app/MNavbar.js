@@ -1,12 +1,12 @@
 import { useState } from "react";
 
+
 const MNavbar = () => {
     const linkStyle = "p-8 no-underline transition ease-in-out duration-500 hover:text-orange_primary hover:underline";
     const [isOpen, setIsOpen] = useState(false);
 
     return(
         <>
-        
             {isOpen && (
                 <div className="absolute bg-bg_gray-200 w-full h-auto text-text_color-100 ">
                     <div className="ml-10 mt-7 flex justify-between">

@@ -8,6 +8,9 @@ module.exports = {
       dropShadow: {
         'c3xl': '0 40px 40px rgba(51, 61, 75, 0.70)',
       },
+      screens: {
+        'xs': '425px'
+      },
       colors: {
         'bg_gray': {
           100: '#2c2e31',
