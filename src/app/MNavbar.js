@@ -26,7 +26,7 @@ const MNavbar = () => {
             )}
                 <div className="flex justify-center items-center w-full h-9 bg-bg_gray-100 text-text_color-100">
                     <div className="w-screen h-11 absolute bg-red_secondary-200 flex items-center justify-center" >
-                        <p>website in development, not responsive yet</p>
+                        <p>website in development, can find bugs</p>
                     </div>
                     <div onClick={() => setIsOpen(true)} className="flex items-center mt-24">
                         <div className="w-32 bg-orange_primary h-2"></div>
